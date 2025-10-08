@@ -1,7 +1,7 @@
 # TaiESM documentation configuration (NorESM-style: single-root Sphinx)
 from datetime import datetime
 
-project = "TaiESM-docs"
+project = "TaiESM"
 author = "AC3/AS-RCEC"
 release = "latest"
 copyright = f"{datetime.now():%Y} {author}"
