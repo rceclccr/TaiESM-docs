@@ -21,7 +21,7 @@ For most use cases, the scientifically supported versions are preferable, being 
 Scientifically supported TaiESM versions
 """"""""""""""""""""""""""""""""""""""""
 
-`TaiESM1 <https://taiesm-docs.readthedocs.io/en/noresm1/>`_ :
+`TaiESM1 <https://taiesm-docs.readthedocs.io/en/taiesm1/>`_ :
    Model version used for CMIP6, IPCC AR5, CMIP7 DCPP and PaceMaker Experiments.
    TaiESM1 is based on the Community Earth System Model (CESM1.2.2).
    The latest code release is `TaiESM1 <https://github.com/rceclccr/TaiESM1/releases/tag/1.0.0>`_, from July. 03, 2017.
