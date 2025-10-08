@@ -8,7 +8,7 @@ copyright = f"{datetime.now():%Y} {author}"
 
 extensions = [
     "myst_parser",            # allow Markdown via MyST
-    "sphinxcontrib.bibtex",   # bibliography support if needed
+   #"sphinxcontrib.bibtex",   # bibliography support if needed
 ]
 
 # MyST options (you can still write RST primarily)
