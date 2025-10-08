@@ -1,7 +1,6 @@
 ![TaiESM logo](img/ac3_logo.jpg)
 
-[![DOI](https://doi.org/10.5194/gmd-13-3887-2020.svg)](https://doi.org/10.5194/gmd-13-3887-2020)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3626654.svg)](https://doi.org/10.5281/zenodo.3626654)
 
 [![Documentation Status](https://readthedocs.org/projects/taiesm-docs/badge/?version=latest)](https://taiesm-docs.readthedocs.io/en/latest/?badge=latest)
 
