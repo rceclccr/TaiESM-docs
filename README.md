@@ -10,13 +10,13 @@
 TaiESM has been developed since 2008, and has served as a common platform for contributions from the CCliCS Project(Consortium for Climate Change Study), RCEC, Academia sinica and Taiwan Researchers community to the WCRP Coupled Model Intercomparison Project (CMIP) and reports from the Intergovernmental Panel on Climate Change (IPCC).
 
 
-# NorESM documentation
+# TaiESM documentation
 
 - [TaiESM-1 documentation](https://taiesm-docs.readthedocs.io/en/taiesm1)
 - [Latest NorESM documentation](https://taiesm-docs.readthedocs.io/en/latest) list of documentation pages for all TaiESM versions
 
 
-# Branches in NorESM
+# Branches in TaiESM
 
 This repository has the following NorESM branches:
 
