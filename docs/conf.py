@@ -1,10 +1,11 @@
 # TaiESM documentation configuration (NorESM-style: single-root Sphinx)
 from datetime import datetime
 
-project = "TaiESM"
-author = "TaiESM Team"
+project = "TaiESM-docs"
+author = "AC3/AS-RCEC"
 release = "latest"
 copyright = f"{datetime.now():%Y} {author}"
+root_doc = "index"
 
 extensions = [
     "myst_parser",            # allow Markdown via MyST
