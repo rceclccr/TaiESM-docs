@@ -1,18 +1,34 @@
-# TaiESM Documentation
+![TaiESM logo](img/ac3-logo.png)
 
-本倉庫提供 **TaiESM**（臺灣地球系統模式）之文件來源。Read the Docs 會從不同分支建置對應版本的網站。
+[![DOI](https://doi.org/10.5194/gmd-13-3887-2020.svg)](https://doi.org/10.5194/gmd-13-3887-2020)
 
-- 主要網站（建置成功後）：`https://taiesm-docs.readthedocs.io/en/latest/`
-- 如何編輯：在網站頁面點選 "Edit on GitHub" 或直接對應檔案送 PR。
+[![Documentation Status](https://readthedocs.org/projects/noresm-docs/badge/?version=latest)](https://noresm-docs.readthedocs.io/en/latest/?badge=latest)
 
-## 本機預覽
-```bash
-pip install -r requirements.txt
-sphinx-build . _build
-open _build/index.html
-```
+# Taiwan Earth System Model (TaiESM)
 
-## 分支與版本建議
-- `main`：最新文件（可能對應開發版本）
-- `taiesm1`、`taiesm2`：各版本對應之文件
-- 標籤（tags）：發行版（例如 `v2.0.0`）
+TaiESM has been developed since 2008, and has served as a common platform for contributions from the CCliCS Project(Consortium for Climate Change Study), RCEC, Academia sinica and Taiwan Researchers community to the WCRP Coupled Model Intercomparison Project (CMIP) and reports from the Intergovernmental Panel on Climate Change (IPCC).
+
+
+# NorESM documentation
+
+- [TaiESM-1 documentation](https://taiesm-docs.readthedocs.io/en/taiesm1)
+- [Latest NorESM documentation](https://taiesm-docs.readthedocs.io/en/latest) list of documentation pages for all TaiESM versions
+
+
+# Branches in NorESM
+
+This repository has the following NorESM branches:
+
+* **master** - combines and contains recent developments, based on the latest release (at this stage TaiESM1)
+
+* **taiesm1-hr** - development branch for upcoming TaiESM1-HR version
+
+* **taiesm2_dev_beta06** - development branch for upcoming TaiESM2 version
+
+* **taiesm1** - contains TaiESM1 documentation, code and configurations as used for CMIP6 simulations.
+
+
+# Low-key discussion forum
+
+If you have questions or you can’t find the solution to a problem in the FAQs or in other parts of the documentation, please post question(s) here: 
+https://github.com/rceclccr/TaiESM/discussions

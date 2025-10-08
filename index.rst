@@ -7,7 +7,7 @@ Welcome to the TaiESM documentation pages!
 ==========================================
 
 TaiESM has been developed since 2008, and has served as a common platform for contributions from the CCliCS Project(Consortium for Climate Change Study), RCEC, Academia sinica and Taiwan Researchers community to the WCRP Coupled Model Intercomparison Project (CMIP) and reports from the Intergovernmental Panel on Climate Change (IPCC).
-These documentation pages provide information about NorESM at key stages of development, as well as recent updates to the model system.
+These documentation pages provide information about TaiESM at key stages of development, as well as recent updates to the model system.
 For this reason, separate documentation pages are provided for the different model versions.
 
 
