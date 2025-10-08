@@ -2,7 +2,6 @@
 
 [![DOI](https://doi.org/10.5281/zenodo.3626654.svg)](https://doi.org/10.5281/gmd-13-3887-2020)
 
-
 [![Documentation Status](https://readthedocs.org/projects/taiesm-docs/badge/?version=latest)](https://taiesm-docs.readthedocs.io/en/latest/?badge=latest)
 
 # Taiwan Earth System Model (TaiESM)
